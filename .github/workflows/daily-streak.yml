@@ -21,10 +21,6 @@ on:
   repository_dispatch:
     types: [daily-streak, cron-trigger]
 
-  # Fallback: GitHub native schedule (05:30 UTC = 11:00 AM IST)
-  schedule:
-    - cron: '30 5 * * *'
-
 permissions:
   contents: write
 
