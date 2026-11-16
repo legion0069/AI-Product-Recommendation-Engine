@@ -1,0 +1,23 @@
+{
+  "name": "ai-product-recommendation-engine",
+  "version": "1.0.0",
+  "description": "Autonomous AI Product Recommendation Engine — Recommends products based on user preferences, analyzes purchase history, implements collaborative filtering (user-user & item-item), content-based modeling, and delivers personalized product recommendations.",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node tests/recommendationEngine.test.js",
+    "streak": "node scripts/streak-runner.js"
+  },
+  "keywords": [
+    "ai",
+    "recommendation-engine",
+    "collaborative-filtering",
+    "personalization",
+    "purchase-history",
+    "machine-learning",
+    "e-commerce"
+  ],
+  "author": "legion0069",
+  "license": "MIT",
+  "dependencies": {}
+}
