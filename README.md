@@ -50,7 +50,7 @@ To bypass GitHub Actions scheduling queue delays, this repository uses an extern
 ### Phase 2: Core Recommendation Algorithms (Days 6–11)
 - [x] **Day 6**: User-Based Collaborative Filtering (User-User Cosine & Pearson)
 - [x] **Day 7**: Item-Based Collaborative Filtering (Item-Item Adjusted Cosine)
-- [ ] **Day 8**: Matrix Factorization & Latent Factor Decomposition (SVD / ALS)
+- [x] **Day 8**: Matrix Factorization & Latent Factor Decomposition (SVD / ALS)
 - [ ] **Day 9**: Content-Based Filtering & Product Feature Vector Extraction
 - [ ] **Day 10**: Hybrid Recommendation Blending Engine (Weighted Multi-Model Ensemble)
 - [ ] **Day 11**: Cold-Start Onboarding Strategy & Popularity Fallback Engine
