@@ -51,7 +51,7 @@ To bypass GitHub Actions scheduling queue delays, this repository uses an extern
 - [x] **Day 6**: User-Based Collaborative Filtering (User-User Cosine & Pearson)
 - [x] **Day 7**: Item-Based Collaborative Filtering (Item-Item Adjusted Cosine)
 - [x] **Day 8**: Matrix Factorization & Latent Factor Decomposition (SVD / ALS)
-- [ ] **Day 9**: Content-Based Filtering & Product Feature Vector Extraction
+- [x] **Day 9**: Content-Based Filtering & Product Feature Vector Extraction
 - [ ] **Day 10**: Hybrid Recommendation Blending Engine (Weighted Multi-Model Ensemble)
 - [ ] **Day 11**: Cold-Start Onboarding Strategy & Popularity Fallback Engine
 
