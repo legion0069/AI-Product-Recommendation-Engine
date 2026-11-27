@@ -56,7 +56,7 @@ To bypass GitHub Actions scheduling queue delays, this repository uses an extern
 - [x] **Day 11**: Cold-Start Onboarding Strategy & Popularity Fallback Engine
 
 ### Phase 3: Advanced Personalization & Real-Time Intelligence (Days 12–17)
-- [ ] **Day 12**: Real-Time Session-Based Recommender & Short-Term Intent Tracker
+- [x] **Day 12**: Real-Time Session-Based Recommender & Short-Term Intent Tracker
 - [ ] **Day 13**: Implicit Feedback Processor (Clicks, Views, Cart Additions & Dwell Time)
 - [ ] **Day 14**: Dynamic Re-Ranking, Novelty Boost & Filter-Bubble Mitigator
 - [ ] **Day 15**: Context-Aware Recommendations (Temporal, Seasonal & Device Context)
